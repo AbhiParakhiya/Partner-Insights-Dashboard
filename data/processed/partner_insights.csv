@@ -1,0 +1,51 @@
+partner_id,industry,Unnamed: 2,region,revenue,deals,engagement_frequency,growth_potential,last_active,avg_deal_value,engagement_score,partner_tier
+Partner_001,Retail,0,South America,458124.68,21,6,0.08,2026-01-15,21815.46,68.0,Gold
+Partner_002,Technology,1,Asia Pacific,638117.13,12,5,0.09,2025-11-20,53176.43,59.0,Gold
+Partner_003,Manufacturing,2,North America,147505.48,15,1,0.27,2025-12-04,9833.7,37.0,Silver
+Partner_004,Healthcare,3,EMEA,498732.63,6,6,0.22,2026-01-17,83122.1,82.0,Gold
+Partner_005,Healthcare,4,Asia Pacific,195507.62,25,3,0.3,2025-12-07,7820.3,60.0,Silver
+Partner_006,Healthcare,5,Asia Pacific,563600.39,27,1,0.09,2025-12-05,20874.09,19.0,Gold
+Partner_007,Finance,6,North America,531141.89,27,2,0.08,2025-10-16,19671.92,28.0,Gold
+Partner_008,Technology,7,North America,440975.49,53,9,0.3,2025-12-10,8320.29,120.0,Gold
+Partner_009,Finance,8,South America,325259.97,27,5,0.18,2025-10-17,12046.67,68.0,Silver
+Partner_010,Technology,9,North America,373885.17,43,1,0.15,2025-11-17,8695.0,25.0,Silver
+Partner_011,Retail,10,EMEA,843549.86,50,2,0.36,2026-01-30,16871.0,56.0,Gold
+Partner_012,Technology,11,South America,664857.08,52,6,0.06,2025-12-05,12785.71,66.0,Gold
+Partner_013,Technology,12,Asia Pacific,758840.57,13,4,0.06,2026-01-09,58372.35,46.0,Gold
+Partner_014,Technology,13,South America,800032.68,10,7,0.16,2025-10-12,80003.27,86.0,Gold
+Partner_015,Technology,14,South America,525139.65,41,3,0.18,2025-10-17,12808.28,48.0,Gold
+Partner_016,Healthcare,15,South America,769210.35,36,5,0.4,2025-11-25,21366.95,90.0,Gold
+Partner_017,Retail,16,South America,253464.02,10,2,0.34,2025-11-20,25346.4,54.0,Silver
+Partner_018,Healthcare,17,Asia Pacific,350004.69,8,8,0.27,2026-01-08,43750.59,107.0,Silver
+Partner_019,Technology,18,South America,174070.92,42,2,0.1,2025-11-16,4144.55,30.0,Silver
+Partner_020,Finance,19,North America,357194.78,51,7,0.31,2025-11-12,7003.82,101.0,Silver
+Partner_021,Manufacturing,20,EMEA,802521.41,54,1,0.15,2025-10-27,14861.51,25.0,Gold
+Partner_022,Finance,21,South America,808690.93,36,7,0.18,2025-11-10,22463.64,88.0,Gold
+Partner_023,Healthcare,22,South America,180987.87,44,8,0.06,2025-11-26,4113.36,86.0,Silver
+Partner_024,Healthcare,23,North America,262356.95,54,9,0.35,2025-11-06,4858.46,125.0,Silver
+Partner_025,Finance,24,North America,325459.63,32,1,0.16,2025-12-20,10170.61,26.0,Silver
+Partner_026,Healthcare,25,EMEA,253527.91,33,1,0.25,2025-10-19,7682.66,35.0,Silver
+Partner_027,Healthcare,26,South America,772160.41,38,8,0.08,2025-11-09,20320.01,88.0,Gold
+Partner_028,Healthcare,27,Asia Pacific,609081.17,6,1,0.33,2025-12-12,101513.53,43.0,Gold
+Partner_029,Healthcare,28,South America,246192.29,7,3,0.06,2025-10-09,35170.33,36.0,Silver
+Partner_030,Retail,29,North America,734979.51,16,6,0.07,2025-12-01,45936.22,67.0,Gold
+Partner_031,Technology,30,EMEA,543799.29,12,1,0.3,2025-12-31,45316.61,40.0,Gold
+Partner_032,Manufacturing,31,North America,234834.19,38,4,0.06,2025-10-29,6179.85,46.0,Silver
+Partner_033,Retail,32,Asia Pacific,218884.69,40,8,0.22,2026-01-18,5472.12,102.0,Silver
+Partner_034,Technology,33,North America,546880.26,23,8,0.3,2025-10-03,23777.4,110.0,Gold
+Partner_035,Healthcare,34,Asia Pacific,237777.76,7,2,0.22,2025-10-21,33968.25,42.0,Silver
+Partner_036,Healthcare,35,North America,387963.72,46,9,0.33,2025-10-25,8433.99,123.0,Silver
+Partner_037,Technology,36,Asia Pacific,824414.69,14,6,0.24,2025-11-11,58886.76,84.0,Gold
+Partner_038,Finance,37,North America,652663.85,37,6,0.26,2025-10-31,17639.56,86.0,Gold
+Partner_039,Healthcare,38,Asia Pacific,651472.23,14,6,0.32,2025-12-19,46533.73,92.0,Gold
+Partner_040,Retail,39,North America,490409.13,26,6,0.05,2025-11-09,18861.89,65.0,Gold
+Partner_041,Healthcare,40,Asia Pacific,212421.73,39,2,0.38,2025-11-18,5446.71,58.0,Silver
+Partner_042,Manufacturing,41,South America,181474.56,38,3,0.27,2025-10-14,4775.65,57.0,Silver
+Partner_043,Finance,42,North America,412426.37,37,7,0.33,2026-02-01,11146.66,103.0,Gold
+Partner_044,Technology,43,South America,839620.81,40,9,0.05,2026-02-01,20990.52,95.0,Gold
+Partner_045,Retail,44,Asia Pacific,356448.45,28,5,0.25,2025-10-13,12730.3,75.0,Silver
+Partner_046,Manufacturing,45,EMEA,404094.74,34,3,0.12,2026-01-21,11885.14,42.0,Silver
+Partner_047,Healthcare,46,North America,403135.42,53,7,0.14,2026-01-08,7606.33,84.0,Silver
+Partner_048,Manufacturing,47,Asia Pacific,279587.95,39,2,0.18,2026-01-17,7168.92,38.0,Silver
+Partner_049,Technology,48,South America,209992.93,48,1,0.4,2025-12-11,4374.85,50.0,Silver
+Partner_050,Retail,49,Asia Pacific,379363.77,44,8,0.4,2026-01-23,8621.9,120.0,Silver
