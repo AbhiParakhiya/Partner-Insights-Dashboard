@@ -138,7 +138,7 @@ RESPONSE:
             response = f"I have analyzed profiles for {', '.join(partners)}. Most show a strong strategic focus on digital transformation and Partner Insights & GenAI integration."
 
         # Final Polish
-        response += "\n\n**[Partner Insights & GenAI Insight]**: This data suggests a healthy pipeline for GenAI enablement. I recommend focusing on partners with growth >15% for the upcoming ecosystem waves."
+        response += "\n\n**Response:** This data suggests a healthy pipeline for GenAI enablement. I recommend focusing on partners with growth >15% for the upcoming ecosystem waves."
         
         # Ensure it's never empty
         if not response:
