@@ -15,7 +15,7 @@ from analytics.processor import process_partner_data
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_PATH = os.path.join(BASE_DIR, "data", "processed", "partner_insights.csv")
 
-st.set_page_config(page_title="Partner Insights & GenAI Platform", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="AI-Driven Partner Insights & GenAI Enablement Platform", layout="wide", initial_sidebar_state="expanded")
 
 # Custom CSS for Premium Look
 st.markdown("""
@@ -234,3 +234,4 @@ if user_prompt:
 
 # Bottom Footer
 # Footer removed per user request
+
