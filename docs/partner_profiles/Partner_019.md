@@ -6,7 +6,7 @@
 Partner_019 has been a key partner in the Manufacturing sector within Asia Pacific. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is 1 times per month, which is below average."
 - "Revenue growth of 9.0% expected next fiscal year."
 

@@ -6,7 +6,7 @@
 Partner_025 has been a key partner in the Retail sector within Latin America. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is 3 times per month, which is below average."
 - "Revenue growth of 28.999999999999996% expected next fiscal year."
 

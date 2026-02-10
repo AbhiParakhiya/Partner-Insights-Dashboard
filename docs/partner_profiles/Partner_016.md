@@ -6,7 +6,7 @@
 Partner_016 has been a key partner in the Retail sector within EMEA. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is 5 times per month, which is below average."
 - "Revenue growth of 25.0% expected next fiscal year."
 

@@ -6,7 +6,7 @@
 Partner_020 has been a key partner in the Manufacturing sector within Latin America. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is 10 times per month, which is adequate."
 - "Revenue growth of 23.0% expected next fiscal year."
 

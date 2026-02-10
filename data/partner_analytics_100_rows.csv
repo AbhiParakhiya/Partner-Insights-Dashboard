@@ -1,0 +1,101 @@
+partner_id,industry,Unnamed: 2,region,revenue,deals,engagement_frequency,growth_potential,last_active,avg_deal_value,engagement_score,partner_tier
+Partner_001,Technology,0,South America,527271.54,31,6,0.31,2026-01-04,19670.13,108,Silver
+Partner_002,Finance,1,North America,487863.98,38,6,0.33,2025-10-16,7778.9,138,Silver
+Partner_003,Retail,2,Asia Pacific,653948.83,25,5,0.4,2025-12-11,38299.89,120,Silver
+Partner_004,Finance,3,South America,315529.87,34,1,0.19,2026-01-10,25428.46,47,Gold
+Partner_005,Finance,4,South America,295300.42,37,8,0.18,2025-12-15,11459.78,93,Silver
+Partner_006,Healthcare,5,EMEA,234632.83,32,5,0.32,2025-10-24,27852.93,58,Silver
+Partner_007,Retail,6,Asia Pacific,275011.38,51,5,0.17,2025-10-28,25870.74,76,Gold
+Partner_008,Retail,7,South America,546481.6,37,7,0.38,2026-01-25,16252.02,36,Silver
+Partner_009,Retail,8,North America,423068.94,9,4,0.35,2025-10-08,7201.63,122,Gold
+Partner_010,Finance,9,North America,151913.8,52,6,0.2,2026-01-30,27848.21,105,Silver
+Partner_011,Technology,10,EMEA,303132.33,23,4,0.31,2025-12-31,22251.38,109,Silver
+Partner_012,Retail,11,South America,297500.85,8,3,0.31,2025-11-05,31575.78,63,Gold
+Partner_013,Finance,12,Asia Pacific,657043.42,39,7,0.09,2025-12-29,22246.05,44,Silver
+Partner_014,Healthcare,13,North America,669816.47,53,8,0.37,2025-10-08,34530.72,36,Silver
+Partner_015,Technology,14,South America,218469.54,21,4,0.23,2025-11-27,23420.55,32,Silver
+Partner_016,Healthcare,15,South America,898192.39,48,2,0.34,2025-11-29,23754.7,103,Silver
+Partner_017,Technology,16,EMEA,313424.81,32,3,0.16,2025-11-19,35436.18,44,Platinum
+Partner_018,Finance,17,North America,881291.96,34,1,0.36,2025-10-28,17928.87,87,Silver
+Partner_019,Manufacturing,18,North America,428829.61,33,8,0.19,2025-12-31,7958.56,29,Gold
+Partner_020,Technology,19,Asia Pacific,126440.59,50,3,0.05,2026-01-09,4064.96,86,Silver
+Partner_021,Healthcare,20,North America,376057.0,57,7,0.37,2025-11-10,30940.08,124,Gold
+Partner_022,Finance,21,Asia Pacific,607481.08,10,5,0.08,2026-01-08,25951.45,128,Gold
+Partner_023,Technology,22,North America,644564.36,39,5,0.16,2025-12-03,29050.95,37,Gold
+Partner_024,Manufacturing,23,EMEA,524747.67,45,7,0.38,2025-10-27,10879.67,130,Silver
+Partner_025,Manufacturing,24,North America,458226.53,41,9,0.38,2026-01-26,8045.74,119,Silver
+Partner_026,Retail,25,Asia Pacific,542314.47,28,5,0.25,2025-12-02,3538.15,130,Silver
+Partner_027,Retail,26,Asia Pacific,574157.38,33,1,0.27,2025-10-17,15971.74,105,Platinum
+Partner_028,Healthcare,27,EMEA,164682.66,53,1,0.21,2025-12-12,24826.95,53,Gold
+Partner_029,Technology,28,North America,395723.56,50,2,0.15,2025-11-02,17513.03,130,Platinum
+Partner_030,Technology,29,North America,293727.95,57,6,0.17,2026-01-25,19186.57,27,Silver
+Partner_031,Retail,30,EMEA,742511.81,35,9,0.29,2025-12-23,36453.87,59,Gold
+Partner_032,Technology,31,North America,476240.51,39,8,0.31,2025-12-16,15885.45,132,Platinum
+Partner_033,Technology,32,North America,886738.51,37,5,0.33,2025-12-31,22017.61,127,Silver
+Partner_034,Manufacturing,33,Asia Pacific,419059.55,56,1,0.33,2026-01-20,31995.16,102,Silver
+Partner_035,Retail,34,North America,753145.5,25,7,0.08,2025-10-29,17672.08,61,Gold
+Partner_036,Finance,35,North America,738676.1,36,5,0.22,2025-10-13,26017.21,60,Gold
+Partner_037,Retail,36,EMEA,220574.04,27,6,0.07,2025-11-15,34907.46,120,Gold
+Partner_038,Finance,37,EMEA,506559.02,37,7,0.24,2025-11-04,38132.26,25,Silver
+Partner_039,Manufacturing,38,South America,656650.25,7,3,0.2,2026-02-02,8441.72,71,Gold
+Partner_040,Healthcare,39,Asia Pacific,786687.04,22,3,0.36,2025-10-06,37283.74,45,Silver
+Partner_041,Technology,40,North America,360767.12,29,5,0.17,2025-12-21,21208.3,83,Silver
+Partner_042,Manufacturing,41,North America,276192.84,46,6,0.09,2026-01-23,12555.04,117,Silver
+Partner_043,Technology,42,South America,668919.63,35,9,0.1,2026-02-05,19988.02,78,Gold
+Partner_044,Healthcare,43,North America,747600.84,58,5,0.32,2025-12-08,39261.21,75,Gold
+Partner_045,Healthcare,44,Asia Pacific,378932.79,7,1,0.27,2025-11-16,21226.87,78,Gold
+Partner_046,Manufacturing,45,South America,176941.24,44,4,0.09,2025-10-25,15163.81,128,Silver
+Partner_047,Healthcare,46,Asia Pacific,852418.61,50,5,0.08,2025-12-05,26435.83,89,Platinum
+Partner_048,Finance,47,South America,418057.62,28,5,0.3,2025-10-10,11885.39,120,Silver
+Partner_049,Healthcare,48,South America,514201.08,54,7,0.08,2025-11-25,5806.94,52,Gold
+Partner_050,Technology,49,EMEA,770168.08,36,4,0.34,2025-10-30,7768.55,72,Silver
+Partner_051,Technology,50,Asia Pacific,640552.09,51,1,0.3,2026-01-22,7737.7,41,Silver
+Partner_052,Technology,51,North America,688172.9,26,5,0.08,2026-01-31,8620.4,40,Silver
+Partner_053,Technology,52,North America,267257.3,27,7,0.08,2026-01-17,8136.61,89,Silver
+Partner_054,Finance,53,Asia Pacific,533158.38,6,6,0.4,2025-10-05,26712.37,89,Gold
+Partner_055,Retail,54,North America,656627.52,31,5,0.18,2026-01-27,9729.56,138,Gold
+Partner_056,Manufacturing,55,North America,282840.02,46,4,0.18,2026-01-28,15789.69,131,Silver
+Partner_057,Technology,56,Asia Pacific,239963.94,6,2,0.33,2025-11-02,36181.17,23,Platinum
+Partner_058,Healthcare,57,South America,885734.67,30,4,0.38,2026-01-26,20536.58,113,Silver
+Partner_059,Technology,58,Asia Pacific,513308.71,21,3,0.4,2025-12-04,27699.64,94,Gold
+Partner_060,Healthcare,59,South America,308663.34,44,1,0.31,2025-10-18,9375.84,81,Platinum
+Partner_061,Healthcare,60,North America,897002.96,37,8,0.18,2026-01-04,10114.69,81,Gold
+Partner_062,Technology,61,North America,872335.48,13,5,0.08,2026-01-19,4512.14,113,Silver
+Partner_063,Finance,62,North America,546634.76,47,4,0.32,2025-11-18,9250.6,114,Platinum
+Partner_064,Healthcare,63,EMEA,806109.07,58,8,0.25,2025-10-11,13307.84,43,Gold
+Partner_065,Healthcare,64,South America,250965.69,52,7,0.2,2025-12-24,9549.39,74,Silver
+Partner_066,Technology,65,EMEA,323097.08,43,2,0.37,2025-10-26,6281.99,28,Silver
+Partner_067,Healthcare,66,EMEA,660286.26,33,1,0.09,2025-12-02,7463.53,138,Gold
+Partner_068,Healthcare,67,Asia Pacific,777328.91,46,4,0.22,2025-12-28,20048.81,22,Gold
+Partner_069,Technology,68,EMEA,785059.43,59,8,0.05,2025-12-25,10634.35,134,Gold
+Partner_070,Technology,69,Asia Pacific,423606.5,30,2,0.21,2025-11-28,16477.98,50,Platinum
+Partner_071,Manufacturing,70,Asia Pacific,810216.08,39,3,0.07,2025-10-27,21626.44,59,Gold
+Partner_072,Finance,71,EMEA,780742.76,54,1,0.09,2025-11-18,28544.61,120,Silver
+Partner_073,Finance,72,South America,848508.0,29,1,0.09,2025-12-16,4454.55,55,Silver
+Partner_074,Healthcare,73,South America,728272.52,28,3,0.28,2025-11-02,32578.18,43,Silver
+Partner_075,Finance,74,South America,635190.6,17,5,0.31,2026-01-06,26232.31,114,Gold
+Partner_076,Healthcare,75,South America,564549.3,11,3,0.25,2026-01-13,6025.08,25,Silver
+Partner_077,Manufacturing,76,South America,397826.21,40,1,0.39,2026-01-07,35322.41,85,Gold
+Partner_078,Technology,77,EMEA,852106.75,49,1,0.18,2026-02-04,37072.28,103,Gold
+Partner_079,Technology,78,EMEA,878931.07,24,8,0.15,2025-10-01,5259.88,111,Platinum
+Partner_080,Technology,79,North America,327136.78,5,2,0.35,2025-10-21,13244.47,94,Silver
+Partner_081,Finance,80,South America,344291.09,12,3,0.13,2026-01-20,32829.45,23,Gold
+Partner_082,Manufacturing,81,EMEA,488491.0,50,2,0.39,2025-11-24,30685.61,98,Silver
+Partner_083,Finance,82,North America,458739.31,20,3,0.05,2025-10-06,9827.28,25,Gold
+Partner_084,Finance,83,South America,895565.97,18,7,0.39,2025-12-31,10745.92,137,Silver
+Partner_085,Manufacturing,84,Asia Pacific,240740.2,16,1,0.07,2025-12-20,16707.47,132,Silver
+Partner_086,Manufacturing,85,North America,114460.29,55,8,0.36,2025-12-08,20927.35,113,Gold
+Partner_087,Manufacturing,86,EMEA,495114.97,27,2,0.23,2026-01-03,25875.43,139,Silver
+Partner_088,Manufacturing,87,Asia Pacific,243058.17,19,3,0.4,2025-10-05,16649.8,121,Silver
+Partner_089,Technology,88,Asia Pacific,393175.03,32,9,0.08,2026-01-10,20113.78,70,Gold
+Partner_090,Retail,89,Asia Pacific,695336.42,38,7,0.24,2025-10-03,30656.42,81,Gold
+Partner_091,Retail,90,North America,676751.94,6,4,0.39,2025-11-22,4357.28,76,Gold
+Partner_092,Manufacturing,91,EMEA,346448.63,36,5,0.23,2025-10-23,12340.17,85,Gold
+Partner_093,Retail,92,Asia Pacific,534032.18,27,2,0.27,2026-01-09,29393.93,98,Gold
+Partner_094,Retail,93,South America,507051.26,26,8,0.29,2025-11-22,36122.65,94,Silver
+Partner_095,Manufacturing,94,Asia Pacific,609066.09,55,4,0.21,2025-11-06,21932.07,27,Silver
+Partner_096,Retail,95,Asia Pacific,300369.45,29,9,0.27,2025-12-13,22688.2,45,Silver
+Partner_097,Finance,96,North America,571896.68,26,5,0.25,2025-12-13,6965.36,70,Platinum
+Partner_098,Healthcare,97,North America,883114.29,26,9,0.37,2025-12-22,19554.26,64,Gold
+Partner_099,Healthcare,98,EMEA,489393.72,53,4,0.07,2025-10-17,22706.84,63,Silver
+Partner_100,Manufacturing,99,South America,824879.03,56,5,0.15,2025-12-24,11971.41,24,Silver

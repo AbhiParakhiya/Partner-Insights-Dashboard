@@ -6,7 +6,7 @@
 Partner_023 has been a key partner in the Retail sector within North America. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is 4 times per month, which is below average."
 - "Revenue growth of 8.0% expected next fiscal year."
 

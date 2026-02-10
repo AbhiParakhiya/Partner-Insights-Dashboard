@@ -41,8 +41,8 @@ rag = RAGEngine()
 
 # Sidebar
 with st.sidebar:
-    st.title("🚀 IBM Ecosystem")
-    st.subheader("Partner Insights & GenAI")
+    st.title("🚀 Partner Insights & GenAI")
+    st.subheader("Ecosystem Engagement")
     st.divider()
     
     if not df.empty:
@@ -91,7 +91,7 @@ with st.sidebar:
                 except Exception as e:
                     st.error(f"❌ Error processing data: {str(e)}")
                     st.info("Ensure the CSV contains columns: partner_id, industry, region, revenue, deals, engagement_frequency, growth_potential, last_active")
-    st.info("Built for IBM Ecosystem Digital Transformation.")
+    st.info("Built for Partner Insights & GenAI Digital Transformation.")
 
 # Main Dashboard
 st.title("Partner Insights Dashboard")

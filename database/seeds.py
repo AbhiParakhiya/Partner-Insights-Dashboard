@@ -58,7 +58,7 @@ def generate_unstructured_docs(df):
 {p_id} has been a key partner in the {row['industry']} sector within {row['region']}. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is {row['engagement_frequency']} times per month, which is {'adequate' if row['engagement_frequency'] > 5 else 'below average'}."
 - "Revenue growth of {row['growth_potential']*100}% expected next fiscal year."
 

@@ -6,7 +6,7 @@
 Partner_011 has been a key partner in the Healthcare sector within EMEA. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is 2 times per month, which is below average."
 - "Revenue growth of 21.0% expected next fiscal year."
 

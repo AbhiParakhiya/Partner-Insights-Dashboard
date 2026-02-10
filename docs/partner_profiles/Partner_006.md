@@ -6,7 +6,7 @@
 Partner_006 has been a key partner in the Healthcare sector within Asia Pacific. Their focus is on digital transformation and AI adoption.
 
 ## Recent Feedback
-- "Partner shows high interest in IBM watsonx integration."
+- "Partner shows high interest in Partner Insights & GenAI integration."
 - "Engagement frequency is 5 times per month, which is below average."
 - "Revenue growth of 12.0% expected next fiscal year."
 
