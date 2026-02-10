@@ -94,7 +94,7 @@ with st.sidebar:
     st.info("Built for Partner Insights & GenAI Digital Transformation.")
 
 # Main Dashboard
-st.title("Partner Insights Dashboard")
+st.title("AI-Driven Partner Insights & GenAI Enablement Platform")
 
 if not df.empty:
     # 1. Hero Metrics Section (Always visible if data exists)
@@ -234,4 +234,3 @@ if user_prompt:
 
 # Bottom Footer
 # Footer removed per user request
-
